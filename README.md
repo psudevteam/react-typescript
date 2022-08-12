@@ -1,10 +1,10 @@
-# React DOT
+# React TypeScript
 
 ## Initial Setup
 
 Clone Project ini ( Direkomendasikan menggunakan SSH )
 
-> `git clone git@github.com:maulanasdqn/react-dot`
+> `git clone git@github.com:psudevteam/react-typescript`
 
 ## Install NODEJS dan Yarn
 
